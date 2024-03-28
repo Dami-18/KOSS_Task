@@ -12,3 +12,5 @@ https://medium.com/@suryanshshrivastava_75738/concurrency-asynchronous-programmi
 https://medium.com/@mansha99/concurrency-in-python-threads-and-locks-8daed86e92e6#:~:text=Concurrency%20is%20a%20mechanism%20that,Task1%20has%20completed%20its%20execution.
 https://www.analyticsvidhya.com/blog/2023/08/exploring-multithreading-concurrency-and-parallel-execution-in-python/
 https://www.geeksforgeeks.org/multithreading-python-set-1/
+https://www.geeksforgeeks.org/coroutine-in-python/
+
