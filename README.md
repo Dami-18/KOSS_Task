@@ -15,3 +15,4 @@ https://www.geeksforgeeks.org/multithreading-python-set-1/
 https://www.geeksforgeeks.org/coroutine-in-python/
 https://www.educative.io/answers/how-to-create-an-asyncio-task
 https://builtin.com/data-science/asyncio
+https://www.scaler.com/topics/golang/mutex-in-golang/
